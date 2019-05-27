@@ -1,0 +1,48 @@
+body {
+margin: 0;
+padding: 0;
+font-family: 'Times New Roman', Times, serif;
+color: #444;
+}
+
+header {
+    color: darkgreen;
+    height: 35px;
+    width: 100%;
+    opacity: .9;
+    margin-bottom: 10px;
+    
+}
+
+header h1.logo{
+    margin: 0;
+    font-size: 1.7em;
+    color: #ffffff;
+    text-transform: uppercase;
+    float: left;
+}
+
+header h1.logo:hover{
+    color: #fff;
+    text-decoration: none;
+    }
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+div.home{
+    padding: 10px 0 30px 0;
+    background-color: #e6e6e6;
+    -webkit-border-radius: 6px;
+    -moz-border-readius: 6px;
+
+    border-radius: 6px;
+
+}
+h3{
+    font-size: 1.7em;
+    
+}
